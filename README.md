@@ -9,6 +9,6 @@ Entre suas funções está:
 * Criar virtualizações a partir dos sinais recebidos
 * Analisar o conjunto de dados
 * Disponibilizar os resultados por exemplo :
-** Banco de dados
-** Arquivos
-** Barramento
+.. * Banco de dados
+*  * Arquivos
+* * Barramento
