@@ -1,6 +1,8 @@
 # ANAQ 2017
 Software de aquisição e análise do Sistema MDM
 
+Último Path ANAQ 2017: [ANAQ x64 PATCH 3.9.15.102]
+
 Entre suas funções temos:
 
 * Aquisitar os sinais da unidade de aquisição de dados de vibrações
@@ -14,7 +16,6 @@ Entre suas funções temos:
   * Arquivos
   * Barramento
 
-Último Path ANAQ 2017: [ANAQ x64 PATCH 3.9.15.105]
 
 
-[ANAQ x64 PATCH 3.9.15.105]: <https://drive.google.com/open?id=1v3qQ4xpk79UWzdnzSDpngnXPFqHwaHu1>
+[ANAQ x64 PATCH 3.9.15.102]: <https://drive.google.com/open?id=1v3qQ4xpk79UWzdnzSDpngnXPFqHwaHu1>
