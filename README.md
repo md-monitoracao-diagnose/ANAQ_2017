@@ -1,7 +1,8 @@
 # ANAQ 2017
 Software de aquisição e análise do Sistema MDM
 
-Último Path ANAQ 2017: [ANAQ x64 PATCH 3.9.15.103]
+- Último Path ANAQ 2017: [ANAQ x64 PATCH 3.9.15.103]
+- Manual do ANAQ Config: [Manual ANAQ Config]
 
 Entre suas funções temos:
 
@@ -19,3 +20,4 @@ Entre suas funções temos:
 
 
 [ANAQ x64 PATCH 3.9.15.103]: <https://drive.google.com/open?id=1CSDVf1pdPXD4AoTCwHUXSz1fURzJArfK>
+[Manual ANAQ Config]: <https://github.com/md-monitoracao-diagnose/ANAQ_2017/wiki/Manual-Configurador-do-ANAQ-(pt-br)>
