@@ -1,7 +1,7 @@
 # ANAQ 2017
 Software de aquisição e análise do Sistema MDM
 
-Último Path ANAQ 2017: [ANAQ x64 PATCH 3.9.15.102]
+Último Path ANAQ 2017: [ANAQ x64 PATCH 3.9.15.103]
 
 Entre suas funções temos:
 
@@ -18,4 +18,4 @@ Entre suas funções temos:
 
 
 
-[ANAQ x64 PATCH 3.9.15.102]: <https://drive.google.com/open?id=1v3qQ4xpk79UWzdnzSDpngnXPFqHwaHu1>
+[ANAQ x64 PATCH 3.9.15.103]: <https://drive.google.com/open?id=1CSDVf1pdPXD4AoTCwHUXSz1fURzJArfK>
