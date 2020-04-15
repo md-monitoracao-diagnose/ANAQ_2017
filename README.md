@@ -19,5 +19,5 @@ Entre suas funções temos:
 
 
 
-[ANAQ x64 PATCH 3.9.15.103]: <https://drive.google.com/open?id=1CSDVf1pdPXD4AoTCwHUXSz1fURzJArfK>
+[ANAQ x64 PATCH 3.9.15.103]: <https://drive.google.com/open?id=137_AuXt0aQx2peyvnCGNEIDEs_X4bw3Z>
 [Manual ANAQ Config]: <https://github.com/md-monitoracao-diagnose/ANAQ_2017/wiki/Manual-Configurador-do-ANAQ-(pt-br)>
